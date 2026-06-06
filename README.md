@@ -212,7 +212,7 @@ Rubber dampers can be used to reduce vibration.
 ## Fan Wiring
 
 
-<img src="schmatic" alt="FILADRIER Banner" width="100%">
+<img src="sechmatic" alt="schematic" width="100%">
 
 Your HP laptop fans use 4 wires:
 
