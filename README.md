@@ -48,7 +48,7 @@ This project is designed to be:
 ## Bill of Materials (BOM)
 
 | # | Component | Purpose | Qty | link  |
-|---|---|---|---|---;|
+|---|---|---|---|---|
 | 1 | Micro USB Cable | Power connection | 1 | https://www.amazon.in/gp/product/B09MNFNNVZ/ref=ox_sc_act_title_11?smid=A1WYWER0W24N8S&psc=1 |
 | 2 | HP Laptop Cooling Fan (4-Pin) | Air circulation | 2 | https://www.amazon.in/Time-3D-Tetra-Fluoro-Ethulene/dp/B0CKBSZFP6/ref=cart_prsubs_d_sccl_3/524-8491303-9102210?pd_rd_w=ytbCm&content-id=amzn1.sym.7e6f4ca7-742c-40dd-aa7f-9aaaec0c906b&pf_rd_p=7e6f4ca7-742c-40dd-aa7f-9aaaec0c906b&pf_rd_r=53W32VP3AP9HFCA0J9WF&pd_rd_wg=XSHb8&pd_rd_r=4c244c60-9feb-4da9-8570-fe209e4c505d&pd_rd_i=B0CKBSZFP6&th=1 |
 | 3 | Airtight Storage Containers | Main dryer enclosure | 2 | amazon.in/gp/product/B0FR484TLT/ref=ox_sc_act_title_14?smid=AXOGFIT0PZZ7G&psc=1 |
