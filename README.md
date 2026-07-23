@@ -66,13 +66,16 @@ This project is designed to be:
 
 Print the following models before assembly.
 
-### 1. Dry Box
+### 1. Dry Box,get roller from here 
 
 https://makerworld.com/en/models/39426-dyna-dry-box-filament-box-4l#profileId-38638
+by [@Dynarun](https://makerworld.com/en/@Dynarun)
 
 ### 2. Compact PTFE Socket
 
 https://makerworld.com/en/models/16294-compact-fitting-socket-for-dry-box#profileId-26865
+by [@TrocheHole](https://makerworld.com/en/@TrocheHole)
+or one can get the one from above one too 
 
 ### 3. External Air Dryer Parts
 
