@@ -43,23 +43,23 @@ This project is designed to be:
 
 ---
 
----
-
 ## Bill of Materials (BOM)
 
-| # | Component | Purpose | Qty | link  |
-|---|---|---|---|---|
-| 1 | Micro USB Cable | Power connection | 1 | [link](https://www.amazon.in/gp/product/B09MNFNNVZ/ref=ox_sc_act_title_11?smid=A1WYWER0W24N8S&psc=1) |
-| 2 | HP Laptop Cooling Fan (4-Pin) | Air circulation | 2 | [link](https://www.amazon.in/Time-3D-Tetra-Fluoro-Ethulene/dp/B0CKBSZFP6/ref=cart_prsubs_d_sccl_3/524-8491303-9102210?pd_rd_w=ytbCm&content-id=amzn1.sym.7e6f4ca7-742c-40dd-aa7f-9aaaec0c906b&pf_rd_p=7e6f4ca7-742c-40dd-aa7f-9aaaec0c906b&pf_rd_r=53W32VP3AP9HFCA0J9WF&pd_rd_wg=XSHb8&pd_rd_r=4c244c60-9feb-4da9-8570-fe209e4c505d&pd_rd_i=B0CKBSZFP6&th=1) |
-| 3 | Airtight Storage Containers | Main dryer enclosure | 2 |  [link](https://www.amazon.in/gp/product/B0FR484TLT/ref=ox_sc_act_title_14?smid=AXOGFIT0PZZ7G&psc=1) |
-| 4 | PC4-M6 Pneumatic Connector | Filament pass-through | 2 | [Link](https://www.amazon.in/gp/product/B0CKBTVZ9T/ref=ox_sc_act_title_15?smid=AAJQ3K54TZ6MM&th=1) |
-| 5 | PTFE Tube (4mm OD, 2mm ID) | Filament guide path | 1 | [link](https://www.amazon.in/Time-3D-Tetra-Fluoro-Ethulene/dp/B0CKBSZFP6/ref=sr_1_3?crid=8ALOYXJBCH3I&dib=eyJ2IjoiMSJ9.mqAnoObkZFxyyzpvULjQQe6MZuiwqv-VYl5ur-w86jILDtuqysRBmHFT2PGjnGkzMtRjF69ZHqcq5p3Lo18TKAOmmH8q0op9HWjrVLy9F2c2HrNEmrMH62OboY3dWygG5AYb-XFwp47hJ1EQjB6vfDFut3N2SgaztXy9BziGzDG1ylLvCsQ2aXCc3fMkhXDSUFYzxHC7FhIfeEcS9S46ozttlw2ls775j76LhUGGtlvWPjp4IT6PsfCh6tTJ6DpPsRe3su53rU-bk3wlCSJtiyH-OQfqy5tnPVAyUWh5Fgc.chzGI-DMuYY1hFKvC49jGRrj-Z5_7J9sHJ7wQeSZyC8&dib_tag=se&keywords=ptfe%2Btube&qid=1781898036&sprefix=ptfe%2Caps%2C280&sr=8-3&th=1) |
-| 6 | M3 Screws & Nuts Assortment | Assembly / Mounting | 1 Kit | [Link](https://www.amazon.in/Phillips-Screws-pieces-Stainless-Assorted/dp/B0H21GVDZ6/ref=sr_1_17?dib=eyJ2IjoiMSJ9.qeaFFacOjI_CDmvulhcWbU3RG2uS-R6aRqpuf1x4hGC_3DCAB5NZ0U9QXrEREGf_7qo3CZuntWegFBn9DR7MzYMniy9yK5HlRpQrStTfjlSg6epKyuvVn6C_U1zbPzCIbhpvT3pTNpT3WQxX7gtBXvSGdCZp67F3cIlZYVO1emh6c72i75GZBveQGvdhvKTY9G-7L0ELT8YW-f4hhVF20o-VIKQJaWjB3x8rjH9kRoXFfisdKEMkOYIf0SPuWynzwv0LyS8am1uce7TF9DDVAjJYR70GaVpco1M5O2A4Ef8.objfV4eM_c49QSYp0zOgL60TN2_Bery2keG-JRjpjI8&dib_tag=se&keywords=m3+screws&qid=1781898100&sr=8-17) |
-| 7 | ball bearings  | rotating base | 1 | [link](https://www.amazon.in/gp/product/B0D5H72295/ref=ox_sc_act_title_17?smid=A1V350QXQFOZZS&th=1) |
-| 8 | bread board and wires | Wiring connections and testing | 1 Pack | [link](https://www.amazon.in/ePro-Labs-KIT-0010-Breadboard-Pieces/dp/B01BLJGS7M/ref=sr_1_13_mod_primary_new?crid=1PZ4L6M35P0NS&dib=eyJ2IjoiMSJ9.NpiqG_GJTt7YLKhI8CJEN9pTX6fMRTcLXJxd-_GekMPcnwkdD1h4u-2kdh9SgHCE-jGyW_ISrTzErExY-RNiHOGCxanZDpq6pFiHm8QYJC01vLhXiC1NVI6TJbrA4zG64Dt9F-CQK7djhKPSmBjLyZ-ZhXiIAcUIwxJA43Tc8UWRWAxnFEg4Ho5pWqAsN3IBOhPHTKrvMy8al2GXysvEyb6lbVBTu8aJIQ_H_x_ippKhQxev6flc9Y0pJHjBnf7Qa6WTckWJsouTa7tCKObqLM29BkTy4ZOTCiDuyLfq7zc.l4YbAjNaEO6TDnvOZN5oUgYPDvon85qRFz0s4vEV1Pw&dib_tag=se&keywords=jumper+wire+set&qid=1781898312&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=jumper+wire+set%2Caps%2C308&sr=8-13) |
-| 9 | SPDT Mini Toggle Switch | ON/OFF control | 1 | [link](https://www.amazon.in/gp/product/B09WDKT8DK/ref=ox_sc_act_title_19?smid=AJ6SIZC8YQDZX&psc=1) |
-| 10 | Silica Gel Beads (Blue) | Moisture absorption | 1 Pack | [link](https://www.amazon.in/gp/product/B0D96715G3/ref=ox_sc_act_title_20?smid=AB1WHZOSLF8K&th=1) |
-| 11 | Mini LCD Temperature/Humidity Meter | Temperature & humidity monitoring | 1 | [link](https://www.amazon.in/Temperature-Thermo-Hygrometer-Hygrometer-Greenhouse-Enclosure/dp/B0FJRRJ6P8/ref=dp_prsubs_d_sccl_2/524-8491303-9102210?pd_rd_w=ySbjp&content-id=amzn1.sym.6e24ee73-46c1-4451-bcfe-95f2deb95fea&pf_rd_p=6e24ee73-46c1-4451-bcfe-95f2deb95fea&pf_rd_r=HSZ63PN2MH5RY4GCKRDK&pd_rd_wg=m6hFb&pd_rd_r=eca671f8-9890-4687-98bc-d37ecb3d1001&pd_rd_i=B0FJRRJ6P8&psc=1) |
+| # | Component | Purpose | Qty | Price | Subtotal | Link |
+|---|---|---|---:|---:|---:|---|
+| 1 | Micro USB Cable | Power connection | 1 | ₹106 / $1.06 | ₹106 / $1.06 | [link](https://www.amazon.in/gp/product/B09MNFNNVZ/ref=ox_sc_act_title_11?smid=A1WYWER0W24N8S&psc=1) |
+| 2 | HP Laptop Cooling Fan (4-Pin) | Air circulation | 2 | ₹299 / $2.99 | ₹598 / $5.98 | [link](https://www.amazon.in/Witamy-15-ACXXX-15-AFXXX-15-BSXXX-813946-001/dp/B09LM8K62Z/) |
+| 3 | Airtight Storage Containers | Main dryer enclosure | 2 | ₹637 / $6.37 | ₹1,274 / $12.74 | [link](https://www.amazon.in/gp/product/B0FR484TLT?smid=AXOGFIT0PZZ7G&psc=1) |
+| 4 | PC4-M6 Pneumatic Connector | Filament pass-through | 2 | ₹251 / $2.51 | ₹251 / $2.51 | [link](https://www.amazon.in/gp/product/B0CKBTVZ9T?smid=AAJQ3K54TZ6MM&th=1) |
+| 5 | PTFE Tube (4mm OD, 2mm ID) | Filament guide path | 1 | ₹599 / $5.99 | ₹599 / $5.99 | [link](https://www.amazon.in/Time-3D-Tetra-Fluoro-Ethulene/dp/B0CKBSZFP6/) |
+| 6 | M3 Screws & Nuts Assortment | Assembly / Mounting | 1 Kit | ₹434 / $4.34 | ₹434 / $4.34 | [link](https://www.amazon.in/Phillips-Screws-pieces-Stainless-Assorted/dp/B0H21GVDZ6/) |
+| 7 | Ball Bearings (608ZZ, 8×22×7 mm) | Rotating base | 1 Pack | ₹289 / $2.89 | ₹289 / $2.89 | [link](https://www.amazon.in/gp/product/B0D5H72295?smid=A1V350QXQFOZZS&th=1) |
+| 8 | Breadboard and Wires | Wiring connections and testing | 1 Pack | ₹179 / $1.79 | ₹179 / $1.79 | [link](https://www.amazon.in/ePro-Labs-KIT-0010-Breadboard-Pieces/dp/B01BLJGS7M/) |
+| 9 | SPDT Mini Toggle Switch | ON/OFF control | 1 Pack | ₹220 / $2.20 | ₹220 / $2.20 | [link](https://www.amazon.in/gp/product/B09WDKT8DK?smid=AJ6SIZC8YQDZX&psc=1) |
+| 10 | Silica Gel Beads (Blue) | Moisture absorption | 1 Pack | ₹340 / $3.40 | ₹340 / $3.40 | [link](https://www.amazon.in/gp/product/B0D96715G3?smid=AB1WHZOSLF8K&th=1) |
+| 11 | Mini LCD Temperature/Humidity Meter | Temperature & humidity monitoring | 1 | ₹180 / $1.80 | ₹180 / $1.80 | [link](https://www.amazon.in/Temperature-Thermo-Hygrometer-Hygrometer-Greenhouse-Enclosure/dp/B0FJRRJ6P8/) |
+| | **Total** | | | | **₹4,470 / $44.70** | |
+
 
 ---
 
