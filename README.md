@@ -235,21 +235,6 @@ The other two wires are unnecessary for this build.
 
 ---
 
-## Wiring Schematic
-
-Connect both fans **in parallel**.
-
-```text
-                 ┌──────── Fan 1 Red
-USB +5V ─ Switch ┤
-                 └──────── Fan 2 Red
-
-
-                 ┌──────── Fan 1 Black
-USB GND ─────────┤
-                 └──────── Fan 2 Black
-```
-
 ### Important:
 Do **NOT** connect the fans in series.
 
