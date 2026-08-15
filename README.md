@@ -297,6 +297,7 @@ For best results:
 ## Renders 
 
 ![image](https://cdn.hackclub.com/019f8fb4-8f3b-795a-a671-5d77656756e1/4iL_Cereal_Container_Assy%20(1).png)
+<img width="648" height="572" alt="image" src="https://github.com/user-attachments/assets/c71893e3-5b88-4088-9cb1-33a16bf244f9" />
 
 ---
 
