@@ -213,6 +213,7 @@ Rubber dampers can be used to reduce vibration.
 ---
 
 ## Fan Wiring
+<img width="1124" height="582" alt="image" src="https://github.com/user-attachments/assets/5f7e0759-b0ef-49b5-b8e3-020489402803" />
 
 
 <img src="sechmatic.png" alt="schematic" width="100%">
